@@ -10,10 +10,8 @@ assignees: willbreitkreutz
 ## Module Name
 
 
-## Platform 1 repository link(s)
-| Link to repo | Archive Only |
-| --- | --- |
-|  |  |
+## Platform 1 repository link(s) - note if archive only
+
 
 ## Module Admin(s): name - username
 
