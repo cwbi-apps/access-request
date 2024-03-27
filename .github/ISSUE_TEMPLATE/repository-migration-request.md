@@ -10,13 +10,16 @@ assignees: willbreitkreutz
 ## Module Name
 
 
-## Platform 1 repository link(s) - note if archive only
+## Repository Name(s) - leave blank to use existing name from link below.
+
+
+## Platform 1 or GitHub repository link(s) - note if archive only
 
 
 ## Module Admin(s): name - username
 
 
-## Contributors: name - username
+## Contributors (non-admin): name - username
 
 
 ## Additional requests / comments
