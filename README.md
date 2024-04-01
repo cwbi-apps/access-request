@@ -9,7 +9,7 @@ We will be using issues on this repository for tracking requests to move reposit
 
 Please create an issue here to request migration of your module code from P1.  There is an issue template that will prompt you for some important information:
 
-1. Module Name - Which CBWI module do the repo(s) support?  Please file one issue per module.
+1. Module Name - Which CBWI module do the repo(s) support?
 2. Repositories - Which Platform 1 repos will be migrated? We want to make sure all code gets migrated even if it is in an archived state, mark the repo as archived in the request and we'll mark it as archived in GitHub which makes it read-only.  Archived repos can be un-archived if needed in the future.
 3. Module Admin(s) - Should be the name and GitHub usernames to be added to the admin group for the module, this should include at least one government poc for the module.
 4. Module Contributors - List the name and GitHub username for each user who should have write access to the repository.
