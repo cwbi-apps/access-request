@@ -1,6 +1,6 @@
 ---
 name: Repository Request
-about: Request migration from Platform 1 to GitHub enterprise
+about: Request new repository and associated teams
 title: 'New Repository Request -'
 labels: ''
 
@@ -10,6 +10,9 @@ labels: ''
 
 
 ## Repository Name(s)
+
+
+## Should existing teams be leveraged for access? If so which?
 
 
 ## Admin(s): name - username
