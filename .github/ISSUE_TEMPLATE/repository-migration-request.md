@@ -2,7 +2,7 @@
 name: Repository Request
 about: Request new repository and associated teams
 title: 'New Repository Request -'
-labels: ''
+labels: 'repository'
 
 ---
 
