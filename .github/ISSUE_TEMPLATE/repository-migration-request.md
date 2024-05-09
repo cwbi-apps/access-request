@@ -1,22 +1,18 @@
 ---
-name: Repository Migration Request
+name: Repository Request
 about: Request migration from Platform 1 to GitHub enterprise
-title: ''
+title: 'New Repository Request -'
 labels: ''
-assignees: willbreitkreutz
 
 ---
 
 ## Module Name
 
 
-## Repository Name(s) - leave blank to use existing name from link below.
+## Repository Name(s)
 
 
-## Platform 1 or GitHub repository link(s) - note if archive only
-
-
-## Module Admin(s): name - username
+## Admin(s): name - username
 
 
 ## Contributors (non-admin): name - username
