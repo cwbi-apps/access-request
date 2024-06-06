@@ -3,7 +3,7 @@ name: Member Request
 about: Request new membership to CWBI GitHub
 title: 'New Member Request -'
 labels: 'membership'
-
+assignees: willbreitkreutz
 ---
 
 ## Module Name(s)
