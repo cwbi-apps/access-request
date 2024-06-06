@@ -3,7 +3,7 @@ name: Repository Request
 about: Request new repository and associated teams
 title: 'New Repository Request -'
 labels: 'repository'
-
+assignees: willbreitkreutz
 ---
 
 ## Module Name
