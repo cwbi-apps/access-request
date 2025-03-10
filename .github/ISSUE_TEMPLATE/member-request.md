@@ -1,9 +1,10 @@
 ---
 name: Member Request
 about: Request new membership to CWBI GitHub
-title: 'New Member Request -'
-labels: 'membership'
+title: New Member Request -
+labels: membership
 assignees: willbreitkreutz
+
 ---
 
 ## Module Name(s)
@@ -19,4 +20,3 @@ assignees: willbreitkreutz
 
 
 ## Additional requests / comments
-
