@@ -1,5 +1,5 @@
 ---
-name: New Dev Infrastructure Request
+name: Dev Infrastructure Request
 about: Request new repository in the cwbi-dev-infrastructure org.
 title: ''
 labels: repository
