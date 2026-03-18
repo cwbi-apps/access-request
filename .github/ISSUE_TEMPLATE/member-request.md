@@ -7,7 +7,7 @@ assignees: willbreitkreutz
 
 ---
 
-- [ ] My GitHub profile meets the CWBI User Profile requirements: https://github.com/cwbi-apps/policies?tab=readme-ov-file#user-profiles
+- [ ] The GitHub profile(s) that I listed below all meet the CWBI User Profile requirements: https://github.com/cwbi-apps/policies?tab=readme-ov-file#user-profiles
 
 ## Module Name(s)
 
