@@ -8,6 +8,7 @@ assignees: willbreitkreutz
 ---
 
 - [ ] The GitHub profile(s) that I listed below all meet the CWBI User Profile requirements: https://github.com/cwbi-apps/policies?tab=readme-ov-file#user-profiles
+- [ ] I understand that any account considered [dormant](https://github.com/cwbi-apps/policies#dormant-users) may be removed from the CWBI organization without notice.
 
 ## Module Name(s)
 
